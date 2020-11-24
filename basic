@@ -1,0 +1,18 @@
+var activeMonthlyUsers; // initialize var 
+
+activeMonthlyUser = 2;// assign value 
+
+activrMonthlyUseres = (2 + activeMonthlyUsers) + "M"; // => "4M" output
+
+activeMonthlyUsers =`3M`;
+
+var isPersonAdult = ture; // true or flase 
+
+var evaluatedPersonAgeConditon = isPersonAdult == true // => output true
+
+if (isPersonAdult == true) { // if always needs a condition
+
+//ok sell beer 
+
+}
+
