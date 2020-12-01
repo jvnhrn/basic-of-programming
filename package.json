@@ -1,0 +1,23 @@
+{
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "name": "npm",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "jest": "^26.6.3"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jvnhrn/basic-of-programming.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jvnhrn/basic-of-programming/issues"
+    },
+    "homepage": "https://github.com/jvnhrn/basic-of-programming#readme",
+    "description": ""
+}
